@@ -42,7 +42,7 @@
     color: rgba(0, 0, 0, 0.644);
     margin-top: 0;
     font-size: 12px;
-    font-weight: lighter;
+    font-weight: bold;
 }
 
 .bmi{
@@ -178,7 +178,7 @@
 }
 
 .meaning p{
-    font-weight: lighter;
+    font-weight: bold;
     color: rgba(0, 0, 0, 0.644);
     font-size: 15px;
 }
